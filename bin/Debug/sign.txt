@@ -1,0 +1,11 @@
+aneela,321,admin
+shela,123,admin
+mohsin,123,admin
+tania,123,admin
+sunny,123,admin
+mano,111,admin
+kinza,123,customer
+chand,111,customer
+moon,moon1,customer
+kamran,123,admin
+dani,234,admin
